@@ -11,7 +11,7 @@ products = []
 #main page
 def main ():
     print("------------------------------------------------------")
-    print("--------- session 5 - Muhamad Fahraz Firdaus ---------")
+    print("--------- session 5 - Moustapha  Abdoulmouti ---------")     
     print("-----------------point of sale App--------------------")
 
     print('MENU :')
